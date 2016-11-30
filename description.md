@@ -5,7 +5,8 @@ Capital Social: 120,000
 -Resultados Acumulados: 50,000                               
 -Accionariado Laboral: 30,000                                
 
-Datos del 2015:                                                            
+Datos del 2015: 
+
 -Ventas: 750,000                                                           
 -Devoluciones Sobre Ventas: 50,000                                                  
 -Costo de Ventas: 100,000                                                               
