@@ -1,0 +1,1 @@
+> ¿Cuál es el monto de la reserva legal del ejercicio?
