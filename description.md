@@ -17,9 +17,9 @@ Datos del 2015:
 -Tasa de Impuesto a la renta: 28%
 
 -Tasa de Participación de los trabajadores: 10%
-
-
-
+                      
+                      
+                      
 Operaciones:
 
 1.Se reparten dividendos en efectivo por el 20% del saldo inicial de resultados acumulados.
