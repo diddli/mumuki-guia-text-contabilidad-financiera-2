@@ -1,0 +1,20 @@
+---
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+language: 
+teacher_info: ''
+manual_evaluation: false
+choices:
+- value: "a)\t347,328"
+  checked: false
+- value: "b)\t521,400"
+  checked: false
+- value: "c)\t400,928"
+  checked: false
+- value: "d)\t386,328"
+  checked: true
+- value: "e)\tNinguna de las anteriores"
+  checked: false
