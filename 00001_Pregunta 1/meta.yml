@@ -8,13 +8,18 @@ language: text
 teacher_info: ''
 manual_evaluation: false
 choices:
-- value: "a)\t347,328"
+- !ruby/hash:BSON::Document
+  value: "a)\t347,328"
   checked: false
-- value: "b)\t521,400"
+- !ruby/hash:BSON::Document
+  value: "b)\t521,400"
   checked: false
-- value: "c)\t400,928"
+- !ruby/hash:BSON::Document
+  value: "c)\t400,928"
   checked: false
-- value: "d)\t386,328"
+- !ruby/hash:BSON::Document
+  value: "d)\t386,328"
   checked: true
-- value: "e)\tNinguna de las anteriores"
+- !ruby/hash:BSON::Document
+  value: "e)\tNinguna de las anteriores"
   checked: false
